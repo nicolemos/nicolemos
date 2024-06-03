@@ -6,6 +6,6 @@
 
 <h3 align="left">Lenguajes y Herramientas:</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=java,kotlin,nodejs,figma&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,spring,postgres,mysql,git,postman&theme=light)](https://skillicons.dev)
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=nicolemos&show_icons=true&locale=en&layout=compact" alt="nicolemos" /></p>
