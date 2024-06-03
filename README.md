@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nicolás Lemos</h1>
+
 - 🔭 I’m currently working on [Torneo](https://github.com/ederromero28/s15-10-m-java-angular)
 
 - 🌱 I’m currently learning **Angular**
